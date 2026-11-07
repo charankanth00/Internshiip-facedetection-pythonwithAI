@@ -1,0 +1,27 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# Large video files (optional — uncomment to exclude)
+# *.mov
+# *.mp4
+# *.avi
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
